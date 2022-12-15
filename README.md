@@ -5,10 +5,10 @@ Connect and disconnect a paired bluetooth device.
 Tested with macOS Monterey and Alfred 4.8
 
 ## Usage
-- `btc` - lists all paired devices, select a device and hit <enter> to connect.
+- `btc` - lists all paired devices, select a device and hit ENTER to connect.
 ![btc_sample](./images/btc.png "btc Sample")
 
-- `btd` - lists all connected devices, select a device and hit <enter> to disconnect.
+- `btd` - lists all connected devices, select a device and hit ENTER to disconnect.
 ![btd_sample](./images/btd.png "btd Sample")
 
 ## Installation
