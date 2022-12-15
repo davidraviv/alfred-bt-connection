@@ -12,7 +12,7 @@ Tested with macOS Monterey and Alfred 4.8
 ![btd_sample](./images/btd.png "btd Sample")
 
 ## Installation
-- Download the workflow from the root folder, or [click here](./Bluetooth%20device%20connection.alfredworkflow)
+- Download the workflow from the root folder, or [click here](https://github.com/davidraviv/alfred-bt-connection/raw/main/Bluetooth%20device%20connection.alfredworkflow)
 - Double click the downloaded file to install the workflow.
 
 ## Use cases
